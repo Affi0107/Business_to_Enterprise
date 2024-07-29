@@ -1,0 +1,140 @@
+[
+    {
+      "zone_name": "Zone 1",
+      "areas": [
+        {
+          "area_name": "Area 1",
+          "prices": [255, 160, 70, 225, 130],
+          "percentages": [55, 20, 15, 5, 5],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        },
+        {
+          "area_name": "Area 2",
+          "prices": [295, 140, 80, 265, 150],
+          "percentages": [50, 30, 10, 5, 5],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        },
+        {
+          "area_name": "Area 3",
+          "prices": [275, 180, 90, 245, 150],
+          "percentages": [46, 30, 18, 4, 2],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        }
+      ]
+    },
+    {
+      "zone_name": "Zone 2",
+      "areas": [
+        {
+          "area_name": "Area 1",
+          "prices": [285, 190, 100, 255, 160],
+          "percentages": [58, 22, 14, 4, 2],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        },
+        {
+          "area_name": "Area 2",
+          "prices": [265, 200, 110, 235, 170],
+          "percentages": [55, 25, 15, 4, 1],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        },
+        {
+          "area_name": "Area 3",
+          "prices": [305, 210, 120, 275, 180],
+          "percentages": [50, 30, 15, 3, 2],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        }
+      ]
+    },
+    {
+      "zone_name": "Zone 3",
+      "areas": [
+        {
+          "area_name": "Area 1",
+          "prices": [315, 200, 130, 285, 190],
+          "percentages": [58, 20, 15, 5, 2],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        },
+        {
+          "area_name": "Area 2",
+          "prices": [305, 230, 140, 275, 200],
+          "percentages": [52, 25, 17, 4, 2],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        },
+        {
+          "area_name": "Area 3",
+          "prices": [335, 240, 150, 305, 210],
+          "percentages": [48, 28, 16, 6, 2],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        }
+      ]
+    },
+    {
+      "zone_name": "Zone 4",
+      "areas": [
+        {
+          "area_name": "Area 1",
+          "prices": [345, 250, 160, 315, 220],
+          "percentages": [55, 22, 15, 5, 3],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        },
+        {
+          "area_name": "Area 2",
+          "prices": [335, 260, 170, 325, 230],
+          "percentages": [50, 28, 15, 5, 2],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        },
+        {
+          "area_name": "Area 3",
+          "prices": [365, 270, 180, 335, 240],
+          "percentages": [45, 30, 20, 3, 2],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        }
+      ]
+    },
+    {
+      "zone_name": "Zone 5",
+      "areas": [
+        {
+          "area_name": "Area 1",
+          "prices": [375, 280, 190, 345, 250],
+          "percentages": [58, 20, 16, 4, 2],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        },
+        {
+          "area_name": "Area 2",
+          "prices": [365, 290, 200, 355, 260],
+          "percentages": [54, 25, 15, 4, 2],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        },
+        {
+          "area_name": "Area 3",
+          "prices": [395, 300, 210, 365, 270],
+          "percentages": [50, 30, 15, 4, 1],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        }
+      ]
+    },
+    {
+      "zone_name": "Zone 6",
+      "areas": [
+        {
+          "area_name": "Area 1",
+          "prices": [405, 310, 220, 375, 280],
+          "percentages": [60, 20, 12, 5, 3],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        },
+        {
+          "area_name": "Area 2",
+          "prices": [395, 320, 230, 385, 290],
+          "percentages": [56, 22, 15, 5, 2],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        },
+        {
+          "area_name": "Area 3",
+          "prices": [425, 330, 240, 395, 300],
+          "percentages": [3, 26, 16, 4, 2],
+          "values": ["Curb-side Pick Up Standee","Product Launch Standee","POS Tent-card","Table 1 Tent-card","Table 2 Tent-card"]
+        }
+      ]
+    }
+  ]

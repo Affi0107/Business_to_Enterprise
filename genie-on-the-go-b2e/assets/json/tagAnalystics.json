@@ -1,0 +1,50 @@
+[
+    {
+        "zoneName": "Zone 1",
+        "values": [
+            "saran",
+            "value2",
+            "value3",
+            "value4",
+            "value5"
+        ],
+        "percentages": [
+            20,
+            10,
+            15,
+            30,
+            25
+        ],
+        "prices": [
+            300,
+            200,
+            100,
+            250,
+            150
+        ]
+    },
+    {
+        "zoneName": "Zone 2",
+        "values": [
+            "saran",
+            "value2",
+            "value3",
+            "value4",
+            "value5"
+        ],
+        "percentages": [
+            20,
+            10,
+            15,
+            30,
+            25
+        ],
+        "prices": [
+            300,
+            200,
+            100,
+            250,
+            150
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Cappuccino",
+        "description": "Dark, rich espresso lies in wait under a smoothed and stretched layer of thick milk foam. ",
+        "tagnumber":"001",
+        "itemcode":"CK001VBCC",
+        "image": "cap_coffee",
+        "price": 4.0,
+        "status":"work in progress"
+    },
+    {
+        "id": 2,
+        "name": "Bruschetta",
+        "description": "Grilled bread rubbed with garlic and topped with olive oil and salt. ",
+        "tagnumber":"002",
+        "itemcode":"CK002VBCC",
+        "image": "Bruschetta_snacks",
+        "price": 5.0,
+        "status":"completed"
+       
+    },
+    {
+        "id": 3,
+        "name": "Wallnut Cookies",
+        "description": "Espresso shots topped with hot water create a light layer of cream culminating in this wonderfully rich cup with depth and nuance",
+        "tagnumber":"003",
+        "itemcode":"CK003VBCC",
+        "image": "wallnut_cookies",
+        "price":5.0,
+        "status":"work in progress"
+    },
+    {
+        "id": 4,
+        "name": "Americano w/ Creme",
+        "description": "Espresso shots topped with hot water create a light layer of cream culminating in this wonderfully rich cup with depth and nuance",
+        "tagnumber":"004",
+        "itemcode":"CK004VBCC",
+        "image": "Americano w Creme",
+        "price":5.0,
+        "status":"completed"
+    },
+    {
+        "id": 5,
+        "name": "Scone",
+        "description": "A scone is a traditional British baked good, popular in the United Kingdom and Ireland.",
+        "tagnumber":"005",
+        "itemcode":"CK005VBCC",
+        "image": "Scone_snacks",
+        "price": 7.0,
+        "status":"work in progress"
+    },
+    {
+        "id": 6,
+        "name": "Oatmeal Cookies",
+        "description": "A melange of spices, chutney, crunchy vada, yoghurt and freshly chopped coriander.",
+        "tagnumber":"006",
+        "itemcode":"CK006VBCC",
+        "image": "oatmeal_cookies",
+        "price": 7.4,
+        "status":"completed"  
+    }
+]
